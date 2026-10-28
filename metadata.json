@@ -1,0 +1,6 @@
+{
+  "name": "StaffSync - Modern Human Resource Management Solution",
+  "description": "A production-grade MERN-stack HRMS platform with role-based access for Employees, Managers, and HR Personnel featuring attendance tracking, leave workflows, performance appraisals, announcements, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
